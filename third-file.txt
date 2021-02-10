@@ -1,1 +1,3 @@
 Third file was created locally in the feature1 branch
+
+New line was added locally in the third-file.txt by feature1 branch
